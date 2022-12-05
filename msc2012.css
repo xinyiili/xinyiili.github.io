@@ -55,7 +55,7 @@ body {
 .img .img4 {
   width: 100%;
   height: 100%;
-  background-image: url(/~amyz/msc2002/images/e2p1.png);
+  background-image: url(./image1.png);
   opacity: var(--opacityImg4);
   display: flex;
   position: absolute;
@@ -70,7 +70,7 @@ body {
 .img .img5 {
   width: 100%;
   height: 100%;
-  background-image: url(/~amyz/msc2002/images/e2p2.png);
+  background-image: url(./image2.png);
   opacity: var(--opacityImg5);
   display: flex;
   position: absolute;
